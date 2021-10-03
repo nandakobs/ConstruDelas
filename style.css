@@ -1,0 +1,10 @@
+body{
+    background: blueviolet;
+}
+
+p{
+ color: white;
+ text-align: center;
+ margin: 20px;
+ font-size: 30px;
+}
